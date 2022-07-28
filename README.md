@@ -1,6 +1,9 @@
 # 🏗👷🏾 Scaffold-ETH Challenges
 
-> learn how to use 🏗 scaffold-eth to create decentralized applications on Ethereum. 🚀
+---
+## ℹ️ Information about this project
+
+In this repository you will find all my solution to each challenge of the [SpeedRunEthereum](https://speedrunethereum.com/).
 
 ---
 
@@ -15,26 +18,9 @@ https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-
 ## 🚩 Challenge 1: 🥩 Decentralized Staking App
 
 🦸 A superpower of Ethereum is allowing you, the builder, to create a simple set of rules that an adversarial group of players can use to work together. In this challenge, you create a decentralized application where users can coordinate a group funding effort. If the users cooperate, the money is collected in a second smart contract. If they defect, the worst that can happen is everyone gets their money back. The users only have to trust the code.
-
-https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-1-decentralized-staking
-
----
-
-## 🚩 Challenge 2: 🏵 Token Vendor
-
-🤖 Smart contracts are kind of like "always on" vending machines that anyone can access. Let's make a decentralized, digital currency. Then, let's build an unstoppable vending machine that will buy and sell the currency. We'll learn about the "approve" pattern for ERC20s and how contract to contract interactions work.
-
-https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-2-token-vendor
-
----
-
-## 🚩 Challenge 3: 🎲 Dice Game
-
-🎰 Randomness is tricky on a public deterministic blockchain.  In this challenge you will explore creating random numbers using block hash and how that may be exploitable.  Attack the dice game with your own contract by predicting the randomness ahead of time to always roll a winner!
-
-https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-3-dice-game
-
----
+> 📂 The path to my solution [https://github.com/NelsonRodMar/scaffold-eth-challenges/tree/challenge-1-decentralized-staking](https://github.com/NelsonRodMar/scaffold-eth-challenges/tree/challenge-1-decentralized-staking)  <br />
+> 📇 The contract is deployed on Ethereum Goerli at this address for Staker [0x7fa68f13be7207a68edcebef2c192a30f35940f0](https://goerli.etherscan.io/address/0x7fa68f13be7207a68edcebef2c192a30f35940f0) and this address for ExampleExternalContract [0xD335191b150Cb4CDfD4bF61E08Cc780a69eAb3b5](https://goerli.etherscan.io/address/0xd335191b150cb4cdfd4bf61e08cc780a69eab3b5#code). <br />
+> 🌐 The front is avaible at this address [sec-1.nelsonrodmar.surge.sh](http://sec-1.nelsonrodmar.surge.sh/).
 
 ### 💬 Support Chat
 
