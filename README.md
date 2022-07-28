@@ -1,5 +1,13 @@
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
+## ℹ️ Information about this project
+
+> This branch  contain my version of the scaffold-eth-challenge "Challenge 1: 🥩 Decentralized Staking App". <br /> <br />
+> 📇 The contract is deployed on Ethereum Goerli at this address for Staker [0x7fa68f13be7207a68edcebef2c192a30f35940f0](https://goerli.etherscan.io/address/0x7fa68f13be7207a68edcebef2c192a30f35940f0) and this address for ExampleExternalContract [0xD335191b150Cb4CDfD4bF61E08Cc780a69eAb3b5](https://goerli.etherscan.io/address/0xd335191b150cb4cdfd4bf61e08cc780a69eab3b5#code). <br />
+> 🌐 The front is avaible at this address [sec-1.nelsonrodmar.surge.sh](http://sec-1.nelsonrodmar.surge.sh/).
+
+
+
 ## 🚩 Challenge 1: 🥩 Decentralized Staking App
 
 > 🦸 A superpower of Ethereum is allowing you, the builder, to create a simple set of rules that an adversarial group of players can use to work together. In this challenge, you create a decentralized application where users can coordinate a group funding effort. If the users cooperate, the money is collected in a second smart contract. If they defect, the worst that can happen is everyone gets their money back. The users only have to trust the code.

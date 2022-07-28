@@ -77,11 +77,11 @@ describe("🚩 Challenge 1: 🥩 Decentralized Staking App", function () {
           expect(timeLeft1.toNumber()).to.greaterThan(0);
 
           console.log('\t'," 🚀 Staking a full eth!")
-          const stakeResult = await stakerContract.stake({value: ethers.utils.parseEther("1")});
+          const stakeResult = await stakerContract.stake({value: ethers.utils.parseEther("2")});
           console.log('\t'," 🏷  stakeResult: ",stakeResult.hash)
 
           console.log('\t'," ⌛️ fast forward time...")
-          await network.provider.send("evm_increaseTime", [3600])
+          await network.provider.send("evm_increaseTime", [270000])
           await network.provider.send("evm_mine")
 
           const timeLeft2 = await stakerContract.timeLeft()
@@ -118,7 +118,7 @@ describe("🚩 Challenge 1: 🥩 Decentralized Staking App", function () {
           expect(txResult.status).to.equal(1);
 
           console.log('\t'," ⌛️ fast forward time...")
-          await network.provider.send("evm_increaseTime", [3600])
+          await network.provider.send("evm_increaseTime", [270000])
           await network.provider.send("evm_mine")
 
           console.log('\t'," 🎉 calling execute")
