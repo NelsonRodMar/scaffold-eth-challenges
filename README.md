@@ -1,5 +1,12 @@
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
+## ℹ️ Information about this project
+
+> This branch  contain my version of the scaffold-eth-challenge "Challenge 2: 🏵 Token Vendor". <br /> <br />
+> 📇 The contract is deployed on Ethereum Goerli at this address for YouToken [0xeda2B76D5b8d293016B36Bd04dD841d8CfE6b02e](https://goerli.etherscan.io/address/0xeda2B76D5b8d293016B36Bd04dD841d8CfE6b02e) and this address for Vendor [0xF6f1054E94ccAE3B51e8EC1Ae6EF6E0aeb671194](https://goerli.etherscan.io/address/0xF6f1054E94ccAE3B51e8EC1Ae6EF6E0aeb671194). <br />
+> 🌐 The front is avaible at this address [sec-2.nelsonrodmar.surge.sh](http://sec-2.nelsonrodmar.surge.sh/).
+
+
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
 
 
