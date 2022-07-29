@@ -22,6 +22,14 @@ https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-
 > 📇 The contract is deployed on Ethereum Goerli at this address for Staker [0x7fa68f13be7207a68edcebef2c192a30f35940f0](https://goerli.etherscan.io/address/0x7fa68f13be7207a68edcebef2c192a30f35940f0) and this address for ExampleExternalContract [0xD335191b150Cb4CDfD4bF61E08Cc780a69eAb3b5](https://goerli.etherscan.io/address/0xd335191b150cb4cdfd4bf61e08cc780a69eab3b5#code). <br />
 > 🌐 The front is avaible at this address [sec-1.nelsonrodmar.surge.sh](http://sec-1.nelsonrodmar.surge.sh/).
 
+## 🚩 Challenge 2: 🏵 Token Vendor
+
+🤖 Smart contracts are kind of like "always on" vending machines that anyone can access. Let's make a decentralized, digital currency. Then, let's build an unstoppable vending machine that will buy and sell the currency. We'll learn about the "approve" pattern for ERC20s and how contract to contract interactions work.
+
+> 📂 The path to my solution [https://github.com/NelsonRodMar/scaffold-eth-challenges/tree/challenge-2-token-vendor](https://github.com/NelsonRodMar/scaffold-eth-challenges/tree/challenge-2-token-vendor) <br />
+> 📇 The contract is deployed on Ethereum Goerli at this address for YouToken [0xeda2B76D5b8d293016B36Bd04dD841d8CfE6b02e](https://goerli.etherscan.io/address/0xeda2B76D5b8d293016B36Bd04dD841d8CfE6b02e) and this address for Vendor [0xF6f1054E94ccAE3B51e8EC1Ae6EF6E0aeb671194](https://goerli.etherscan.io/address/0xF6f1054E94ccAE3B51e8EC1Ae6EF6E0aeb671194). <br />
+> 🌐 The front is avaible at this address [sec-2.nelsonrodmar.surge.sh](http://sec-2.nelsonrodmar.surge.sh/).
+---
 ### 💬 Support Chat
 
 Join the telegram [support chat 💬](https://t.me/joinchat/KByvmRe5wkR-8F_zz6AjpA) to ask questions and find others building with 🏗 scaffold-eth!
