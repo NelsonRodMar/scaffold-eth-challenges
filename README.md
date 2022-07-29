@@ -1,5 +1,11 @@
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
+## ℹ️ Information about this project
+
+> This branch  contain my version of the scaffold-eth-challenge "Challenge 0: 🎟 Simple NFT Example". <br /> <br />
+> 📇 The contract is deployed on Ethereum Goerli at this address for YourCollectible [0xB90f2218fd1B392A37ca1d60cB78ae5f7D97e86D](https://goerli.etherscan.io/address/0xB90f2218fd1B392A37ca1d60cB78ae5f7D97e86D) . <br />
+> 🌐 The front is avaible at this address [sec-0.nelsonrodmar.surge.sh](http://sec-0.nelsonrodmar.surge.sh/).
+
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
 
 🎫 Create a simple NFT to learn basics of 🏗 scaffold-eth. You'll use [👷‍♀️ HardHat](https://hardhat.org/getting-started/) to compile and deploy smart contracts. Then, you'll use a template React app full of important Ethereum components and hooks. Finally, you'll deploy an NFT to a public network to share with friends! 🚀
