@@ -9,6 +9,10 @@ In this repository you will find all my solution to each challenge of the [Speed
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example
 
+> 📂 The path to my solution [https://github.com/NelsonRodMar/scaffold-eth-challenges/tree/challenge-0-simple-nft](https://github.com/NelsonRodMar/scaffold-eth-challenges/tree/challenge-0-simple-nft)  <br />
+> 📇 The contract is deployed on Ethereum Goerli at this address for YourCollectible [0xB90f2218fd1B392A37ca1d60cB78ae5f7D97e86D](https://goerli.etherscan.io/address/0xB90f2218fd1B392A37ca1d60cB78ae5f7D97e86D) . <br />
+> 🌐 The front is avaible at this address [sec-0.nelsonrodmar.surge.sh](http://sec-0.nelsonrodmar.surge.sh/).
+
 🎫 Create a simple NFT to learn basics of 🏗 scaffold-eth. You'll use 👷‍♀️ HardHat to compile and deploy smart contracts. Then, you'll use a template React app full of important Ethereum components and hooks. Finally, you'll deploy an NFT to a public network to share with friends! 🚀
 
 https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-nft
