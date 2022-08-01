@@ -115,10 +115,7 @@ describe("🚩 Challenge 3: 🎲 Dice Game", function () {
       await fundRiggedContract();
 
       let prevBalance = await deployer.getBalance();
-      await riggedRoll.withdraw(
-        deployer.address,
-        provider.getBalance(riggedRoll.address)
-      );
+      await riggedRoll.withdraw();
       let curBalance = await deployer.getBalance();
       expect(prevBalance.lt(curBalance)).to.true;
     });

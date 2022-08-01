@@ -3,7 +3,7 @@
 ## ℹ️ Information about this project
 
 > This branch  contain my version of the scaffold-eth-challenge "Challenge 3: 🎲 Dice Game". <br /> <br />
-> 📇 The contract is deployed on Ethereum Goerli at this address for DiceGame [0x8fe3cb916ed220402597d5f8d22cbc202a37ec66](https://goerli.etherscan.io/address/0x8fe3cb916ed220402597d5f8d22cbc202a37ec66) and this address for RiggedRoll [0x02ded7e0c8f3200d9aa8380aa38a04f7b43e1f7d](https://goerli.etherscan.io/address/0x02ded7e0c8f3200d9aa8380aa38a04f7b43e1f7d). <br />
+> 📇 The contract is deployed on Ethereum Goerli at this address for DiceGame [0x8fe3cb916ed220402597d5f8d22cbc202a37ec66](https://goerli.etherscan.io/address/0x8fe3cb916ed220402597d5f8d22cbc202a37ec66) and this address for RiggedRoll [0xA115F91991311749bac488c225E02852EEF10555](https://goerli.etherscan.io/address/0xA115F91991311749bac488c225E02852EEF10555). <br />
 > 🌐 The front is avaible at this address [sec-3.nelsonrodmar.surge.sh](http://sec-3.nelsonrodmar.surge.sh/).
 > 
 ## 🚩 Challenge 3: 🎲 Dice Game 

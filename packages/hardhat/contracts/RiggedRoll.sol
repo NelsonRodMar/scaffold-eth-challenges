@@ -32,7 +32,8 @@ contract RiggedRoll is Ownable {
             uint256 amount = diceGame.prize();
             diceGame.rollTheDice{value: amount}();
         } else {
-            console.log("You lose so don't roll the dice");
+            // Add a revert to refund any remaining gas to the caller.
+            revert("The roll is lose so revert");
         }
     }
 
