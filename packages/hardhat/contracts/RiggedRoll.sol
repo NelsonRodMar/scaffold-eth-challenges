@@ -29,8 +29,7 @@ contract RiggedRoll is Ownable {
         uint256 roll = uint256(hash) % 16;
         console.log("THE ROLL IS ", roll);
         if (roll <= 2) {
-            uint256 amount = diceGame.prize();
-            diceGame.rollTheDice{value: amount}();
+            diceGame.rollTheDice{value: 0.002 ether}();
         } else {
             // Add a revert to refund any remaining gas to the caller.
             revert("The roll is lose so revert");
