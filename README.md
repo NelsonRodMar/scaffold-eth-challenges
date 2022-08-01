@@ -32,7 +32,15 @@ https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-
 > 📂 The path to my solution [https://github.com/NelsonRodMar/scaffold-eth-challenges/tree/challenge-2-token-vendor](https://github.com/NelsonRodMar/scaffold-eth-challenges/tree/challenge-2-token-vendor) <br />
 > 📇 The contract is deployed on Ethereum Goerli at this address for YouToken [0xeda2B76D5b8d293016B36Bd04dD841d8CfE6b02e](https://goerli.etherscan.io/address/0xeda2B76D5b8d293016B36Bd04dD841d8CfE6b02e) and this address for Vendor [0xF6f1054E94ccAE3B51e8EC1Ae6EF6E0aeb671194](https://goerli.etherscan.io/address/0xF6f1054E94ccAE3B51e8EC1Ae6EF6E0aeb671194). <br />
 > 🌐 The front is avaible at this address [sec-2.nelsonrodmar.surge.sh](http://sec-2.nelsonrodmar.surge.sh/).
----
+
+## 🚩 Challenge 3: 🎲 Dice Game
+
+🎰 Randomness is tricky on a public deterministic blockchain.  In this challenge you will explore creating random numbers using block hash and how that may be exploitable.  Attack the dice game with your own contract by predicting the randomness ahead of time to always roll a winner!
+
+> 📇 The contract is deployed on Ethereum Goerli at this address for DiceGame [0x8fe3cb916ed220402597d5f8d22cbc202a37ec66](https://goerli.etherscan.io/address/0x8fe3cb916ed220402597d5f8d22cbc202a37ec66) and this address for RiggedRoll [0xA115F91991311749bac488c225E02852EEF10555](https://goerli.etherscan.io/address/0xA115F91991311749bac488c225E02852EEF10555). <br />
+> 🌐 The front is avaible at this address [sec-3.nelsonrodmar.surge.sh](http://sec-3.nelsonrodmar.surge.sh/).
+
+> ---
 ### 💬 Support Chat
 
 Join the telegram [support chat 💬](https://t.me/joinchat/KByvmRe5wkR-8F_zz6AjpA) to ask questions and find others building with 🏗 scaffold-eth!
